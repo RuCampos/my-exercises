@@ -1,1 +1,6 @@
-1 rats
+1 .Ds_Store
+2 out
+3 target
+4 *.iml
+5 .idea
+6 *.idea
